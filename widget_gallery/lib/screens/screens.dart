@@ -1,0 +1,10 @@
+export 'package:widget_gallery/screens/alert_screen.dart';
+export 'package:widget_gallery/screens/animated_screen.dart';
+export 'package:widget_gallery/screens/avatar_screen.dart';
+export 'package:widget_gallery/screens/card_screen.dart';
+export 'package:widget_gallery/screens/home_screen.dart';
+export 'package:widget_gallery/screens/inputs_screen.dart';
+export 'package:widget_gallery/screens/listview_builder_screen.dart';
+export 'package:widget_gallery/screens/listview1_screen.dart';
+export 'package:widget_gallery/screens/listview2_screen.dart';
+export 'package:widget_gallery/screens/slider_screen.dart';
